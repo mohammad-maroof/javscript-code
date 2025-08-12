@@ -1,3 +1,4 @@
+// Reverse String
 function reverseString(inputstring){
     if(typeof inputstring !== "string"){
         throw new Error("only string are allowed")

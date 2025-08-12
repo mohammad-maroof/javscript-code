@@ -1,3 +1,4 @@
+// Reverse number
 let num = prompt('please enter number');
 let reverse = 0;
 while(num>0){

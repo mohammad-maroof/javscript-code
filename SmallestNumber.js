@@ -1,3 +1,4 @@
+// Smallest of three number
 function SmallestNumOFthree(a,b,c){
     if(a<b && b<c){
         return a
